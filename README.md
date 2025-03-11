@@ -1,5 +1,5 @@
 
-# Weather App
+# Weather Apph
 
 ## Overview
 I built this Weather App to showcase my skills in developing a full-stack web application. The app provides real-time weather information using the OpenWeatherMap API. The backend is built with Python Flask and SQLAlchemy (using SQLite for data persistence), and it also integrates a React-based frontend that is served as static files by Flask. With this project, I demonstrate my abilities in API integration, CRUD operations, and deploying a cohesive application.
