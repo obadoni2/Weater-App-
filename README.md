@@ -120,8 +120,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions or feedback, feel free to reach out:
-- Email: your-email@example.com
-- GitHub: https://github.com/yourusername
+- Email: obadoniemma@gmail.com
+- GitHub: https://github.com/obadoni2
 ```
 
 You can adjust any sections (such as the repository URL, contact details, or any additional information) to reflect your project specifics and personal style. Enjoy your Weather App project!
