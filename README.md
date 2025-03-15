@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # Weather WebApp
+=======
+# Weather App
+>>>>>>> 767d98f1be1b16a0fcf7fbd99daab300fbda0608
 
 ## Overview
 I built this Weather App to showcase my skills in developing a full-stack web application. The app provides real-time weather information using the OpenWeatherMap API. The backend is built with Python Flask and SQLAlchemy (using SQLite for data persistence), and it also integrates a React-based frontend that is served as static files by Flask. With this project, I demonstrate my abilities in API integration, CRUD operations, and deploying a cohesive application.
@@ -120,8 +124,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions or feedback, feel free to reach out:
-- Email: your-email@example.com
-- GitHub: https://github.com/yourusername
+- Email: obadoniemma@gmail.com
+- GitHub: https://github.com/obadoni2
 ```
 
 You can adjust any sections (such as the repository URL, contact details, or any additional information) to reflect your project specifics and personal style. Enjoy your Weather App project!
